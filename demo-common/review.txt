@@ -1,4 +1,4 @@
 start from here
 
 rebase -i:a b c
-stage2:a1 b1 c1 d1 meDone
+stage2:a1 b1 c1 d1 meDone end
