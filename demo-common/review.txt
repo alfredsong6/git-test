@@ -3,3 +3,4 @@ start from here
 rebase -i:a b c
 stage2:a1 b1 c1 d1 meDone nono end
 开发feature的新功能 ，one-two-three
+继续开发新功能 feat1
